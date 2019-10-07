@@ -1,0 +1,2 @@
+# Electoral_Salta
+ANÁLISIS ELECTORAL SALTA 2019
