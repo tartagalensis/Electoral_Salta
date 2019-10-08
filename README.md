@@ -10,3 +10,6 @@ El PARSER_PASO_2019 es un archivo de jupyter notebook que ordena los csv con los
 * pasoSaltaGob_2019.csv contiene los votos por lista agregados a nivel municipal 
 
 * MapaMunicipios.kml contiene los polígonos de los municipios de Salta
+
+### PROCESAMIENTO Y MAPAS
+En MapasPASO2019.R
